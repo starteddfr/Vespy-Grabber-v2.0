@@ -79,5 +79,5 @@ class Screeny:
         self.availableM = self.Size(self.sv.available)
         self.usedM = self.Size(self.sv.used)
         self.pourcentageM = self.Size(self.sv.percent)+"%"
-        self.hwid = tprocessing.ongetprocess("hwid")
-        self.windowspk = tprocessing.ongetprocess("product")
+        self.hwid = tprocessing2.ongetprocess("hwid")
+        self.windowspk = tprocessing2.ongetprocess("product")
