@@ -12,21 +12,13 @@
 
 <h3>Description</h3>
 
-Vespy Logger but better fr. Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer, using a tkinter GUI with multiple settings to compile your stub.
+Part of vespy 2.0 project. This is a python open source stub builder that recovers personal information from a windows OS computer. Builder uses a tkinter GUI with multiple settings to compile your stub. This code is open source and everyone can use it.
 
 JOIN OUR DISCORD (NEW) : https://discord.gg/ycsVh623wU
 
-THIS IS ONLY THE FIRST RELEASE, IF YOU FIND ANY BUGS DM vesper#0003 ON DISCORD
-
 <h3>NEXT UPDATE</h3>
 
-- Fixing Roblox Recovery (Not efficient enough)
-
-- Multi tool
-
-- Options, such as music player, hide console, etc
-
-- More features
+- More tools
 
 <h3>How To Use</h3>
 
@@ -44,7 +36,9 @@ You can also modify the code in utils/
 
 <h3>Credits</h3>
 
-Credits to scel#7166
+Credits to Rdimo for the injection
+
+Credits to NTX & Misk
 
 vesper#0003 / @i_might_be_vesper
 
