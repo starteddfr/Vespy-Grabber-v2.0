@@ -12,3 +12,4 @@ pip install rotate-screen
 pip install pyperclip
 pip install pygame
 pip install pyinstaller
+pip install undetected_chromedriver 
