@@ -11,5 +11,4 @@ pip install discord_webhook
 pip install rotate-screen
 pip install pyperclip
 pip install pygame
-pip install pathlib
 pip install pyinstaller
