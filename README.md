@@ -2,7 +2,7 @@
 
 # ===== Python Open Source Stub Builder =====
 
-<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001627756998727/python_EvlOkHBWaD.png'>
+<img align="center" src='https://cdn.discordapp.com/attachments/1088615038853595149/1088700482513539102/python_uJeRkqJp9P.png'>
 
 <h2>Vespy Grabber 2.0</h2>
 
